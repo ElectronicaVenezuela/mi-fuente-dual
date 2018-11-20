@@ -641,7 +641,7 @@ Wire Wire Line
 Wire Wire Line
 	9550 850  9550 1200
 Connection ~ 5900 1400
-Text Label 10300 1600 0    197  ~ 0
+Text Label 10300 1550 0    197  ~ 0
 +
 Text Label 10350 5050 0    197  ~ 0
 -
